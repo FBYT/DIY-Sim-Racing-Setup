@@ -15,6 +15,11 @@ To strengthen the wood(according to Gemini so forgive me if it's wrong) I mixed 
 
 <img width="400" height="392" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Finished%20Wheel_.jpeg"/>
 
+The bolts were installed to latched onto a custom made hub.
+
+<img width="391" height="367" alt="image" src="https://github.com/user-attachments/assets/bb71ce3b-7f20-444b-a075-c1d488883c46" />
+
+
 
 # 📜 Licensing
 
