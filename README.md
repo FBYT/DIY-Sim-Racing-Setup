@@ -17,7 +17,7 @@ To strengthen the wood(according to Gemini so forgive me if it's wrong) I mixed 
 
 The bolts were installed to latched onto a custom made hub.
 
-<img width="391" height="367" alt="image" src="https://github.com/user-attachments/assets/bb71ce3b-7f20-444b-a075-c1d488883c46" />
+<img width="325" height="305" alt="image" src="https://github.com/user-attachments/assets/bb71ce3b-7f20-444b-a075-c1d488883c46" />
 
 
 
