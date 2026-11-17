@@ -5,7 +5,7 @@ Official repository for all the codes, updates and design ideas of my Sim Racing
 The Steering Wheel was a simple build. I just took a simple template from the internet, put it into Illustrator and drew it to size with proper dimensions and length markings. Then I printed the design and glued it to a block of wood. Since I didn't have access to any power tools, I used a handsaw to cut the outside part. I used a screwdriver and hammer to dig holes along the lines of the inner part until the pieces where loose enough to break off (I had to use my chair and bodyweight to get enough force to break them even after making the holes).
 
 
-<img width="291" height="301" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
+<img width="242" height="250" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
 <img width="240" height="320" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%201.jpeg"/>
 <img width="225" height="257" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%202_.jpeg"/>
 <img width="240" height="282" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%203.jpeg"/>
