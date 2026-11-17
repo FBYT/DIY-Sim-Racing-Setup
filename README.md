@@ -1,7 +1,7 @@
-## DIY Sim Racing Setup
+# DIY Sim Racing Setup
 Official repository for all the codes, updates and design ideas of my Sim Racing Setup built from scratch. Note that most parts are built from 27mm of spare unused wood that I had lying around.
 
-# Wheel
+## Wheel
 The Steering Wheel was a simple build. I just took a simple template from the internet, put it into Illustrator and drew it to size with proper dimensions and length markings. Then I printed the design and glued it to a block of wood. Since I didn't have access to any power tools, I used a handsaw to cut the outside part. I used a screwdriver and hammer to dig holes along the lines of the inner part until the pieces where loose enough to break off (I had to use my chair and bodyweight to get enough force to break them even after making the holes).
 
 
@@ -14,7 +14,8 @@ After doing all this, to strengthen the wood(according to Gemini so forgive me i
 
 <img width="600" height="588" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Finished%20Wheel_.jpeg"/>
 
-## 📜 Licensing
+
+# 📜 Licensing
 
 This project uses a dual-licensing approach to cover both software and hardware/media assets:
 
