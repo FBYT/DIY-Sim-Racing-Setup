@@ -5,14 +5,14 @@ Official repository for all the codes, updates and design ideas of my Sim Racing
 The Steering Wheel was a simple build. I just took a simple template from the internet, put it into Illustrator and drew it to size with proper dimensions and length markings. Then I printed the design and glued it to a block of wood. Since I didn't have access to any power tools, I used a handsaw to cut the outside part. I used a screwdriver and hammer to dig holes along the lines of the inner part until the pieces where loose enough to break off (I had to use my chair and bodyweight to get enough force to break them even after making the holes).
 
 
-<img width="582" height="602" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
-<img width="960" height="1280" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%201.jpeg"/>
-<img width="1600" height="1200" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%202.jpeg"/>
-<img width="720" height="846" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%203.jpeg"/>
+<img width="291" height="301" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
+<img width="480" height="640" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%201.jpeg"/>
+<img width="800" height="600" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%202.jpeg"/>
+<img width="360" height="423" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%203.jpeg"/>
 
 After doing all this, to strengthen the wood(according to Gemini so forgive me if it's wrong) I mixed water with fevicol glue and basically soaked the wheel with the mixture, letting it dry overnight. I then colored the wheel black and inserted M6 bolts around the center while covering the center hole with a bottle cap(that can be unscrewed if needed) which I glued a GT logo on to to make it look a little cool perhaps. I finished the wheel by wrapping it with black and red tape, purposefully keeping the design on the outer part.
 
-<img width="1200" height="1600" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Finished%20Wheel.jpeg"/>
+<img width="600" height="800" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Finished%20Wheel.jpeg"/>
 
 ## 📜 Licensing
 
