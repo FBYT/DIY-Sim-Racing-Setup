@@ -7,7 +7,7 @@ The Steering Wheel was a simple build. I just took a simple template from the in
 
 <img width="291" height="301" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
 <img width="480" height="640" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%201.jpeg"/>
-<img width="800" height="600" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%202.jpeg"/>
+<img width="800" height="600" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%202_.jpeg"/>
 <img width="360" height="423" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%203.jpeg"/>
 
 After doing all this, to strengthen the wood(according to Gemini so forgive me if it's wrong) I mixed water with fevicol glue and basically soaked the wheel with the mixture, letting it dry overnight. I then colored the wheel black and inserted M6 bolts around the center while covering the center hole with a bottle cap(that can be unscrewed if needed) which I glued a GT logo on to to make it look a little cool perhaps. I finished the wheel by wrapping it with black and red tape, purposefully keeping the design on the outer part.
