@@ -6,7 +6,7 @@ The Steering Wheel was a simple build. I just took a simple template from the in
 
 <p align="center">
 <img width="202" height="208" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
-<img width="200" height="267" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%201.jpeg"/>
+<img width="200" height="200" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%201_.jpeg"/>
 <img width="207" height="236" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%202_.jpeg"/>
 <img width="200" height="235" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%203.jpeg"/>
 </p>
