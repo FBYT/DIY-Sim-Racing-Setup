@@ -66,7 +66,9 @@ This lead me to develop the third version:
 
 <img width="317" height="399" alt="H-Shifter V3" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20V3.jpeg"/>
 
-Now, granted, this version looks a lot less appealing than the last, but actually is much more practical. This shifter clamped directed to my chair and was useable in proper position. For the clips issue, I at first thought to bring back the two-clip design from V1, but ended up not doing that(hence the hole in the wall). Instead, I changed their position. In V2, the clips were glued above the switches and resulted in them snapping off when I clicked the shift stick in fast. But now, I changed that to settle the clips under the switches. So, when the switches are screwed in, they automatically clamp the clips down hard. I also streamlined the wiring undearneath, making it much cleaner.
+Now, granted, this version looks less appealing than the last, but actually is much more practical. This shifter clamped directed to my chair and was useable in proper position. For the clips issue, I at first thought to bring back the two-clip design from V1, but ended up not doing that(hence the hole in the wall). Instead, I changed their position. 
+
+In V2, the clips were glued above the switches and resulted in them snapping off when I clicked the shift stick in too fast/hard. But now, I changed that to settle the clips under the switches. So, when the switches are screwed in, they automatically clamp the clips down hard. I also streamlined the wiring underneath, making it much cleaner.
 
 <img width="257" height="456" alt="H-Shifter New Wiring" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20New%20Wiring.jpeg"/>
 
