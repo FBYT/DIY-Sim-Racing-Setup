@@ -1,5 +1,5 @@
 # DIY Sim Racing Setup
-Official repository for all the codes, updates and design ideas of my Sim Racing Setup built from scratch. Note that most parts are built from 27mm of spare unused wood that I had lying around.
+Official repository for all the codes, updates and design ideas of my Sim Racing Setup built from scratch. Note that most parts are built from 27mm of spare unused wood that I had lying around. All the images, codes, and designs are included in separate folders.
 
 ## Wheel
 The Steering Wheel was a simple build, but rather taxing for since I lacked any power tools. I started with a random template from the internet and some guides about the dimensions. After that, I opened up illustrator and drew my own design. It took a few tries but I eventually came out with a simple and working design.
