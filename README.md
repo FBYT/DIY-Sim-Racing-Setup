@@ -1,5 +1,5 @@
 # DIY Sim Racing Setup
-Official repository for all the codes, updates and design ideas of my Sim Racing Setup built from scratch. Note that most parts are built from 27mm of spare unused wood that I had lying around. All the images, codes, and designs are included in separate folders.
+Official repository for all the codes, updates and design ideas of my Sim Racing Setup built from scratch. Note that most parts are built from 27mm of spare unused wood that I had lying around. All the images, codes, and designs are included in separate folders. If a video is mentioned, you can click the thumbnail image to go that video.
 
 ## Wheel
 The Steering Wheel was a simple build, but rather taxing for since I lacked any power tools. I started with a random template from the internet and some guides about the dimensions. After that, I opened up illustrator and drew my own design. It took a few tries but I eventually came out with a simple and working design.
@@ -41,6 +41,41 @@ My Prototype(Note, this picture was taken after I had already built my current v
 
 <img width="320" height="320" alt="H-Shifter V1" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20V1.jpeg"/>
 
+The idea was simple. A simple square structure with a custom U-clamp that followed the stick and helped it click into place via two metal clips. The top would board would have the H pattern with limit switches installed underneath in such a way that when the stick clicks into place, the switch at that gear position would be pressed. I connected the switches to an Arduino Leonardo(programmed with a simple code) and it was done!
+
+However, this design came with quite a few issues:
+1)The structure was very loose and flimsy. Shifting each time caused it to bend slightly and be at risk of breaking(which it did a few times).
+2)The clicks were inconsistent. At each gear, the stick clicked in somewhat different and sometimes didn't travel all the way. Though I did edit the prototype to make this better it still was a clear issue that drove out the immersion.
+3)Hard to keep still. It didn't have any latch or clamps attached so I would just press the bottom board under the table to keep it still. This resulted in the shifter being in a very awkward position too.
+4)The centering spring was too loose.
+5)Plainly speaking, this looked bad aesthetically as well.
+
+Funnily enough, I actually did not touch this H-Shifter until after I was done making my first pedals and Wheel base prototypes. But when I did, I developed it into a proper version 2:
+
+<img width="320" height="320" alt="H-Shifter V2" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20V2.jpeg"/>
+
+This already fixed several of the issues. The box was made of solid wood so it was much more rigid. I replaced the center spring for a stronger one which made the feel better. Instead of running wires, I attached an RJ45 connector on the Arduino Leonardo and the shifter for better connection. Aesthetically, this version looked much more appealing. 
+
+However, despite solving some, a lot of the issues still remained. I had changed the style of the clips, moving from two clips that changed positions to an individual clip for each gear slot. But the clip inconsistency was still there, and sometimes the clips snapped off due to it being held on only by glue underneath. The placement was still an issue. The wiring underneath was very messy and disorganized and often got twisted together when the stick moved around, causing some connections to sometimes open on their own.
+
+<img width="320" height="320" alt="H-Shifter V2" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20Old%20wiring.jpeg"/>
+
+This lead me to develop the third version:
+
+<img width="320" height="320" alt="H-Shifter V3" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20V3.jpeg"/>
+
+Now, granted, this version looks a lot less appealing than the last, but actually is much more practical. This shifter clamped directed to my chair and was useable in proper position. For the clips issue, I at first thought to bring back the two-clip design from V1, but ended up not doing that(hence the hole in the wall). Instead, I changed their position. In V2, the clips were glued above the switches and resulted in them snapping off when I clicked the shift stick in fast. But now, I changed that to settle the clips under the switches. So, when the switches are screwed in, they automatically clamp the clips down hard. I also streamlined the wiring undearneath, making it much cleaner.
+
+<img width="320" height="320" alt="H-Shifter V2" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20New%20wiring.jpeg"/>
+
+But, this version carries a few issues I would say:
+1)Since it is screwed directly into my chair, it's inefficient and has become loose due to screwing it in and out a bunch of times already.
+2)Aesthetically it looks bad.
+3)The spring still feels a bit loose.
+
+I plan on improving this in the near future, but for now this is what I'm working with.
+
+## Pedals
 
 # 📜 Licensing
 
