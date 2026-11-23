@@ -28,6 +28,15 @@ The bolts were installed to latched onto a custom made wooden hub.
 <img width="325" height="305" alt="image" src="https://github.com/user-attachments/assets/bb71ce3b-7f20-444b-a075-c1d488883c46"/>
 
 ## H-Shifter
+This is actually what this whole project started with. Manual cars always fascinated me(Also I was watching Initial D at the time of building this). Since I didn't have access to one I thought of trying to craft one myself. So, I brought some limit switches, and Arduino Leonardo and got down to work with some leftover PVC Board I had.
+
+This is where I have to give credits to a YouTuber called "Tech at Home". His tutorial is what I followed to build my first Prototype of the 6+1 H-Shifter.
+<a href="https://www.youtube.com/watch?v=YgJBAJG--uY">
+
+My Prototype(Note, this picture was taken after I had already built my current version):
+
+<img width="320" height="320" alt="H-Shifter V1" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20V1.jpeg"/>
+
 
 # 📜 Licensing
 
