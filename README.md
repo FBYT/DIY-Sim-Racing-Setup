@@ -2,16 +2,20 @@
 Official repository for all the codes, updates and design ideas of my Sim Racing Setup built from scratch. Note that most parts are built from 27mm of spare unused wood that I had lying around.
 
 ## Wheel
-The Steering Wheel was a simple build. I just took a simple template from the internet, put it into Illustrator and drew it to size with proper dimensions and length markings. Then I printed the design and glued it to a block of wood. Since I didn't have access to any power tools, I used a handsaw to cut the outside part. I used a screwdriver and hammer to dig holes along the lines of the inner part until the pieces where loose enough to break off (I had to use my chair and bodyweight to get enough force to break them even after making the holes).
+The Steering Wheel was a simple build, but rather taxing for since I lacked any power tools. I started with a random template from the internet and some guides about the dimensions. After that, I opened up illustrator and drew my own design. It took a few tries but I eventually came out with a simple and working design.
+<p align="center">
+<img width="404" height="416" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
+</p>
+
+Cutting was the hard part. As I mentioned before, I had zero access to any kind of power tools. Although I did have access to woodwork shops near me, at the time I didn't think this project would become this big so I didn't really want to bother them with this little thing of mine. So, I brought two handsaws(small and large) and a hacksaw blade(just the blade as I short on money at the time) and got down to work. I started by cutting the wheel out of the board I had glued the paper design into, using the hacksaw blade to make cuts before using my handsaw to cut along that cut. The circular shape made it harder but I was able to manage. I sanded it down as best as I could before moving onto the inner ones. This part stumped me as for a good while I didn't know what to do. A handsaw wouldn't be of any use here unless I cut the outer rim, which risked the whole wheel breaking into two and I didn't want that after all the effort I had already put in. Desperate for a plan, I came up with the best solution I could envision. A screwdriver and a hammer. First I made holes along the lines of the cutout, then I forced the part out with sheer force(my chair + bodyweight. This took wayy too much effort). Thankfully, at the end the wheel came out in one piece and I sanded the inner parts to smoothen it the best I could.
 
 <p align="center">
-<img width="202" height="208" alt="image" src="https://github.com/user-attachments/assets/e2e2f4e7-2d62-4810-9c36-7597dbf0e4a0"/>
 <img width="200" height="200" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%201_.jpeg"/>
 <img width="207" height="236" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%202_.jpeg"/>
 <img width="200" height="235" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Initial%20Wheel%203.jpeg"/>
 </p>
 
-To strengthen the wood(according to Gemini so forgive me if it's wrong) I mixed water with fevicol glue and basically soaked the wheel with the mixture, letting it dry overnight. I then colored the wheel black and inserted M6 50mm bolts around the center while covering the center hole with a bottle cap(that can be unscrewed if needed) which I glued a GT logo on to to make it look a little cool perhaps. I finished the wheel by wrapping it with black and red tape, purposefully keeping the design on the outer part.
+To strengthen the wood(according to Gemini so forgive me if it's wrong) I mixed water with fevicol glue and soaked the wheel with the mixture, letting it dry overnight. I then colored the wheel black and inserted M6 50mm bolts around the center while covering the center hole with a bottle cap(that can be unscrewed if needed) which I glued a GT logo on to design it a little. I finished the wheel by wrapping it with black and red tape, purposefully keeping the design on the outer part.
 
 <img width="400" height="392" alt="image" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/Finished%20Wheel_.jpeg"/>
 
