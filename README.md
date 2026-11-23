@@ -41,7 +41,7 @@ My Prototype(Note, this picture was taken after I had already built my current v
 
 <img width="320" height="320" alt="H-Shifter V1" src="https://github.com/FBYT/DIY-Sim-Racing-Setup/blob/main/Pictures/H-Shifter%20V1.jpeg"/>
 
-The idea was simple. A simple square structure with a custom U-clamp that followed the stick and helped it click into place via two metal clips. The top would board would have the H pattern with limit switches installed underneath in such a way that when the stick clicks into place, the switch at that gear position would be pressed. I connected the switches to an Arduino Leonardo(programmed with a simple code) and it was done!
+The idea was simple. A simple square structure with a custom U-clamp that followed the stick and helped it click into place via two metal clips. The top PVC board would have the H pattern with limit switches installed underneath in such a way that when the stick clicks into place, the switch at that gear position would be pressed. I connected the switches to an Arduino Leonardo(programmed with a simple code) and it was done!
 
 However, this design came with quite a few issues:
 1)The structure was very loose and flimsy. Shifting each time caused it to bend slightly and be at risk of breaking(which it did a few times).
