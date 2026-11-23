@@ -31,7 +31,7 @@ The bolts were installed to latched onto a custom made wooden hub.
 This is actually what this whole project started with. Manual cars always fascinated me(Also I was watching Initial D at the time of building this). Since I didn't have access to one I thought of trying to craft one myself. So, I brought some limit switches, and Arduino Leonardo and got down to work with some leftover PVC Board I had.
 
 This is where I have to give credits to a YouTuber called "Tech at Home". His tutorial is what I followed to build my first Prototype of the 6+1 H-Shifter.
-<a href="https://www.youtube.com/watch?v=YgJBAJG--uY">
+[![Watch the video](https://youtube.com)]([https://youtu.be](https://www.youtube.com/watch?v=YgJBAJG--uY))
 
 My Prototype(Note, this picture was taken after I had already built my current version):
 
