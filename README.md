@@ -32,7 +32,7 @@ This is actually what this whole project started with. Manual cars always fascin
 
 This is where I have to give credits to a YouTuber called "Tech at Home". His tutorial is what I followed to build my first Prototype of the 6+1 H-Shifter.
 
-[![DIY 6 speed H-Shifter for FFB Steering wheel, Easiest tutorial ever | H-Shifter for EMC Sim Racing🔥](https://www.youtube.com/watch?v=YgJBAJG--uY)](https://www.youtube.com/watch?v=YgJBAJG--uY)
+[![DIY 6 speed H-Shifter for FFB Steering wheel, Easiest tutorial ever | H-Shifter for EMC Sim Racing🔥](https://i.ytimg.com/vi/YgJBAJG--uY/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC62H9pjLCCInq519IwXTq-3I48Dw)](https://www.youtube.com/watch?v=YgJBAJG--uY)
 
 My Prototype(Note, this picture was taken after I had already built my current version):
 
